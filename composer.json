@@ -1,0 +1,12 @@
+{
+    "autoload" : {
+        "psr-4" : {
+            "Ngeluk\\" : "src/"
+        }
+    },
+    "require": {
+        "slim/slim": "^3.7",
+        "doctrine/dbal": "^2.5",
+        "slim/twig-view": "^2.2"
+    }
+}
